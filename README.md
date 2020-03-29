@@ -4,7 +4,7 @@
 The project consisted of assisting a Colorado Board of Elections employee in an audit of a recent local Congressional election, including the following:
 
 1. A report on the total number of votes cast;
-2. The vote count and percentages from each county;
+2. A confirmation of the voter turnout for each county;
 3. The county with the largest turnout;
 4. The total votes cast and percentages for each candidate;
 5. The winner of the election.
